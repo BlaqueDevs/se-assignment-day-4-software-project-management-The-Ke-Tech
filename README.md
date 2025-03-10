@@ -25,7 +25,7 @@ Accurate Budgeting - Conduct detailed cost estimations using techniques like bot
 Scope Control - Prevent feature creep by defining and managing project scope.
 Use of Cost Tracking Tools - Tools like Microsoft Project, Jira, or cost management software help track expenses.
 Efficient Resource Management - Optimize team allocation and avoid unnecessary hiring.
-Regular Financial Reviews - Conduct periodic budget assessments to adjust for any discrepancies.
+Regular Financial Reviews - Conduct periodic budget assessments to adjust for any discrepancies. 
 
 ## 3. Compare and contrast Agile and Waterfall methodologies. What are the main advantages and disadvantages of each?
  Agile is an iterative and flexible approach where the project is divided into small increments (sprints), allowing continuous feedback, adaptability to changes, and frequent releases. It is best for dynamic projects with evolving requirements. In contrast, Waterfall follows a linear, sequential process where each phase (requirements, design, development, testing, deployment) must be completed before moving to the next. It is more structured and works best for projects with well-defined, stable requirements.
